@@ -1,4 +1,4 @@
-ColaborativeTextEditor
+LiveTextEditor
 
 Reg No : 2014331075
 Name   : Md. Maruful Alam
